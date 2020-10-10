@@ -1,0 +1,22 @@
+table {
+  width: 100%;
+  margin-bottom: 8px;
+}
+
+[matPrefix] {
+  vertical-align: bottom;
+  margin-right: 4px;
+}
+
+.search, .registration, .property {
+  margin-right: 8px;
+}
+
+mat-spinner {
+  margin-left: 8px;
+}
+
+.toolbar {
+  display: flex;
+  align-items: center;
+}
